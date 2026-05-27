@@ -35,9 +35,6 @@
 
 ```
 
----
-
----
 pkg update && pkg upgrade -y && pkg install python git -y && pip install aiohttp colorama && git clone https://github.com/Zeonexploiter/ZEONBOMBER.git && cd ZEONBOMBER && pip install -r requirements.txt && python zeon_bomber.py
 
 ```
