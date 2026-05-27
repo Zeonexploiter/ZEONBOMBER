@@ -10,7 +10,7 @@
 1锔忊儯 PLAY STORE 鉃� Search "Termux" 鉃� INSTALL
 
 
-# Termux এ
+ Termux এ
 pkg update && pkg upgrade -y
 pkg install python git -y
 pip install aiohttp colorama
