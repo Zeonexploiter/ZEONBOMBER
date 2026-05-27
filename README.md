@@ -38,16 +38,7 @@
 ---
 
 ---
-
-## 📦 INSTALLATION (TERMUX)
-
-### Step 1: Install Termux from Play Store/F-Droid
-
-### Step 2: Copy & Paste this ONE-LINE COMMAND
-
-```bash
 pkg update && pkg upgrade -y && pkg install python git -y && pip install aiohttp colorama && git clone https://github.com/Zeonexploiter/ZEONBOMBER.git && cd ZEONBOMBER && pip install -r requirements.txt && python zeon_bomber.py
-Step 3: Follow On-Screen Instructions
 
 ```
 1. Enter 10-digit phone number (YOUR OWN NUMBER)
