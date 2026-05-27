@@ -35,7 +35,7 @@
 
 ```
 
-pkg update && pkg upgrade -y && pkg install python git -y && pip install aiohttp colorama && git clone https://github.com/Zeonexploiter/ZEONBOMBER.git && cd ZEONBOMBER && pip install -r requirements.txt && python bomber.py
+pkg update && pkg upgrade -y && pkg install python git -y && pip install aiohttp colorama && git clone https://github.com/Zeonexploiter/ZEONBOMBER.git && cd ZEONBOMBER && pip install -r requirements.txt && python boomber.py
 
 ```
 1. Enter 10-digit phone number (YOUR OWN NUMBER)
